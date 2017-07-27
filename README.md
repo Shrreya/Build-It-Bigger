@@ -1,4 +1,4 @@
-# Build-It-Bigger
+# Build It Bigger
 
 A simple app that tells jokes. </br>
 Building it bigger with Gradle. </br></br>
