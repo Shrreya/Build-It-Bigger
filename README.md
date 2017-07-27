@@ -6,5 +6,5 @@ Taking the starter code from Udacity and implemented a Java library for supplyin
  that displays jokes and a Google Cloud Endpoints module that supplies jokes from the Java library. Project loads jokes from
  GCE module via an async task. Project contains connected tests to verify that the async task is indeed loading jokes.
  The project contains two flavors, a free flavor with ads and a paid flavor without ads. </br></br>
- <img src="https://github.com/Shrreya/Build-It-Bigger/blob/master/screenshots/1.png" width="144" height="256" />
- <img src="https://github.com/Shrreya/Build-It-Bigger/blob/master/screenshots/2.png" width="144" height="256" />
+ <img src="https://github.com/Shrreya/Build-It-Bigger/blob/master/screenshots/1.png" width="288" height="512" />
+ <img src="https://github.com/Shrreya/Build-It-Bigger/blob/master/screenshots/2.png" width="288" height="512" />
